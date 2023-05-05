@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E2AC472D2A05732000CF9F00 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2AC472C2A05732000CF9F00 /* DetailView.swift */; };
 		E2DB5E952A020A630054CB92 /* ScrumdingerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DB5E942A020A630054CB92 /* ScrumdingerApp.swift */; };
 		E2DB5E972A020A630054CB92 /* MeetingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DB5E962A020A630054CB92 /* MeetingView.swift */; };
 		E2DB5E992A020A630054CB92 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E2DB5E982A020A630054CB92 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E2AC472C2A05732000CF9F00 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		E2DB5E912A020A630054CB92 /* Scrumdinger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Scrumdinger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DB5E942A020A630054CB92 /* ScrumdingerApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumdingerApp.swift; sourceTree = "<group>"; };
 		E2DB5E962A020A630054CB92 /* MeetingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeetingView.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				E2DB5EA92A021CAD0054CB92 /* CardView.swift */,
 				E2DB5EAB2A02239A0054CB92 /* TrailingIconLabelStyle.swift */,
 				E2DB5EAD2A0229230054CB92 /* ScrumsView.swift */,
+				E2AC472C2A05732000CF9F00 /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -161,6 +164,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E2DB5EA62A021B000054CB92 /* DailyScrum.swift in Sources */,
+				E2AC472D2A05732000CF9F00 /* DetailView.swift in Sources */,
 				E2DB5EAC2A02239A0054CB92 /* TrailingIconLabelStyle.swift in Sources */,
 				E2DB5EA42A021A220054CB92 /* Theme.swift in Sources */,
 				E2DB5EAE2A0229230054CB92 /* ScrumsView.swift in Sources */,
